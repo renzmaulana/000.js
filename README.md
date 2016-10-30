@@ -1,0 +1,2 @@
+# 000.js
+safelink
